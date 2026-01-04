@@ -1,0 +1,28 @@
+BUDGET:
+Cash
+CapitalOne Visa Quicksilver 7660 
+Chase Checking Company 4272 
+Chase Checking Farm 5356 
+Chase Visa Company 2983 
+Citi Visa Costco 0345 
+Mountain Valley Bank 1194
+PayPal Checking Coy 
+PayPal Checking Kiki
+Schwab Checking Joint 4446
+Schwab Checking Travel 7183
+Venmo Checking Coy 
+Venmo Checking Kiki
+WellsFargo Visa ActiveCash 1758 
+
+INVESTMENTS
+Ascensus 401K 
+Ascensus 401K Roth
+Elevations Checking Kiki 7568 
+Health Equity 
+Schwab
+Vanguard
+
+
+
+Schwab
+Vanguard
